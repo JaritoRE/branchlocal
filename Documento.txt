@@ -10,3 +10,5 @@ datos de estacion y HMi
 camara y un laser con movimientos etc
 
 //------------------CMD2
+
+stoppers y sensores
