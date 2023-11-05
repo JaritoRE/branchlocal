@@ -1,19 +1,12 @@
-//-------------------zona 1
-trabajador sumas
-1+1=2
-
-//------------------zona 2
-trabajador restas
+//-------------------Station
 
 
-//------------------zona 3
-trabajador multiplicaciones
-resuelveme la operacion
+//------------------Module1
 
 
-//------------------zona 4
-aqui van las divisiones
 
-8/4 =2
+//------------------CMD1
 
-10/5 = tambien 2
+
+
+//------------------CMD2
