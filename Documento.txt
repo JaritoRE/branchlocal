@@ -1,24 +1,13 @@
 //---------------------zona 1
-
-
-cambia cosas en zona 1
-
-idea cojonuda
-otra idea cojonuda
-
+espacio1
 
 //--------------------zona 2
-
-
-hace cosas de trabaajdor 2
-
-
+espacio2
 
 
 //------------------zona 3
-
-
-
+espacio3
 
 
 //------------------zona 4
+espacio4
