@@ -12,3 +12,6 @@ resuelveme la operacion
 
 
 //------------------zona 4
+aqui van las divisiones
+
+8/4 =2
