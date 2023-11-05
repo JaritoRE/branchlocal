@@ -2,8 +2,8 @@
 datos de estacion y HMi
 
 //------------------Module1
-
-
+muchos addos y muchos station data
+type data y ddl y mes
 
 //------------------CMD1
 
