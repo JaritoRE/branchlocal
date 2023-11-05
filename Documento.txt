@@ -1,17 +1,14 @@
 //-------------------zona 1
 trabajador sumas
-1+1=2
 
 
 //------------------zona 2
 trabajador restas
-5-2= 3
 
 
 //------------------zona 3
 trabajador multiplicaciones
 resuelveme la operacion
-5*2 = 10
 
 
 //------------------zona 4
