@@ -10,7 +10,8 @@ trabajador restas
 
 //------------------zona 3
 trabajador multiplicaciones
-
+resuelveme la operacion
+5*2 =
 
 
 //------------------zona 4
