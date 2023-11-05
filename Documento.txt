@@ -1,10 +1,16 @@
 //-------------------zona 1
+trabajador sumas
+
 
 
 //------------------zona 2
+trabajador restas
+
 
 
 //------------------zona 3
+trabajador multiplicaciones
+
 
 
 //------------------zona 4
