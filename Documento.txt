@@ -11,7 +11,7 @@ trabajador restas
 //------------------zona 3
 trabajador multiplicaciones
 resuelveme la operacion
-5*2 =
+5*2 = 10
 
 
 //------------------zona 4
