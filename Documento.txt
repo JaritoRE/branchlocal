@@ -5,7 +5,7 @@ trabajador sumas
 
 //------------------zona 2
 trabajador restas
-
+5-2= 3
 
 
 //------------------zona 3
